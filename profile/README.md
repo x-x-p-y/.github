@@ -10,4 +10,6 @@
 
 <img width="3840" height="2148" alt="image" src="https://github.com/user-attachments/assets/a1511817-698a-48f1-a59a-407dc6a2ca11" />
 
+<img width="50%" height="50%" alt="ef946838121004be6256e28697ea175a" src="https://github.com/user-attachments/assets/ba7a9a92-5dd8-4389-9130-a9d8b0277f96" /><img width="50%" height="50%" alt="6daef536167bf09c12d230fd1db1044a" src="https://github.com/user-attachments/assets/ae771a17-670c-4b48-bcd8-21561ce01710" />
+
 了解更多，请访问 [https://xxpy.tech/](https://xxpy.tech/) 

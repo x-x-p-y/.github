@@ -6,10 +6,8 @@
 
 作为一家多元化的科技创新型企业，我们紧跟时代步伐，在前沿技术研发、信息系统集成、人工智能应用服务、区块链落地、软硬件一体化解决方案等多个领域深耕细作。公司拥有一支技术过硬的核心研发团队，具备完善的系统集成与安全服务能力，可全方位助力传统产业完成数字化、智能化转型升级。
 
-<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/2e77bf1e-ac82-4908-ab74-36ec263da368" />
+<img width="1920" height="965" alt="image" src="https://github.com/user-attachments/assets/bd95a88d-ba48-4b6c-a409-6e47537c0758" />
 
-<img width="3840" height="2148" alt="image" src="https://github.com/user-attachments/assets/a1511817-698a-48f1-a59a-407dc6a2ca11" />
-
-<img width="50%" height="50%" alt="ef946838121004be6256e28697ea175a" src="https://github.com/user-attachments/assets/ba7a9a92-5dd8-4389-9130-a9d8b0277f96" /><img width="50%" height="50%" alt="6daef536167bf09c12d230fd1db1044a" src="https://github.com/user-attachments/assets/ae771a17-670c-4b48-bcd8-21561ce01710" />
+<img width="1920" height="965" alt="image" src="https://github.com/user-attachments/assets/e992e19e-64c3-45a3-bb5d-8db311953eaa" />
 
 了解更多，请访问 [https://xxpy.tech/](https://xxpy.tech/) 
